@@ -123,7 +123,6 @@ body{
 
       #main .content{
             width: 100%;
-            background-color: red;
             text-align: center;
             margin-right: 0;
             justify-content: center;
@@ -132,15 +131,15 @@ body{
 
       #main .content h1{
             margin-right: 0;
-            background-color: cyan;
             width: 100%;
-            font-size: 1.75rem;
+            font-size: 1.5rem;
             line-height: 2.25rem;
       }
 
       .content .text{
             margin-right: 0;
             width: 75.5%;
+            font-size: 0.9rem;
       }
 
       .content #button{
