@@ -151,6 +151,7 @@ body{
 
 @media screen and (max-width: 500px){
       body{
+            margin: 0;
             background-image: url("images/bg-mobile.svg");
             background-size: 100%;
             background-position-x: 25%;
@@ -160,7 +161,7 @@ body{
             float: none;
             position: fixed;
             left: 40%;
-            margin-top: 2rem;
+            margin-top: 1rem;
       }
 
       .attribution{
